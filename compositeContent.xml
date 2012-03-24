@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='My usual setup repo'
+	type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository'
+	version='1.0.0'>
+	<children size='7'>
+		<child
+			location='http://update.eclemma.org/' />
+		<child
+			location='http://download.eclipse.org/technology/m2e/releases' />
+		<child
+			location='http://subclipse.tigris.org/update_1.8.x' />
+		<child 
+			location='http://dl.google.com/eclipse/plugin/3.7' />
+		<child
+			location='http://download.scala-ide.org/releases-29/stable/site' />
+		<child
+			location='http://dist.springsource.org/release/GRECLIPSE/e3.7/' />
+		<child
+			location='https://dl-ssl.google.com/android/eclipse/'/>
+	</children>
+
+</repository>
