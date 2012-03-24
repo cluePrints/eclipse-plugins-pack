@@ -1,5 +1,6 @@
 Eclipse composite update site with all the plugins which usually make me happy.
 A decent replacement for a wikipage describing bunch of actions, now only:
+* git clone git@github.com:cluePrints/eclipse-plugins-pack.git
 * add update site
 * select all and click start
 
